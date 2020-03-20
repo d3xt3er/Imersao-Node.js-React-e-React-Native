@@ -1,0 +1,26 @@
+{
+  "name": "Imersao-Node.js-React-e-React-Native",
+  "version": "1.0.0",
+  "description": "Semana de imersão Cesar Celke",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3xt3er/Imersao-Node.js-React-e-React-Native.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d3xt3er/Imersao-Node.js-React-e-React-Native/issues"
+  },
+  "homepage": "https://github.com/d3xt3er/Imersao-Node.js-React-e-React-Native#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.5",
+    "mongoose": "^5.9.5"
+  }
+}
