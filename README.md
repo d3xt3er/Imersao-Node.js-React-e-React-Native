@@ -3,5 +3,5 @@ Semana de imersão Cesar Celke
 
 ![Celke](https://celke.com.br/assets/imagens/logo/logo-site.png)
 
-Site abaixo:
+Site oficial:
 [Celke](https://celke.com.br)
