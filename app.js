@@ -16,7 +16,7 @@ const app = express();
 app.use(express.json());
 
 app.use((req, res, next) => {
-    res.header("Acces-Control-Allow-Origin", "http://localhost:3000");
+    res.header("Acces-Control-Allow-Origin", "*");
     res.header("Acces-Control-Allow-Origin", 'GET, PUT, POST, DELETE');
     app.use(cors());
     next();
